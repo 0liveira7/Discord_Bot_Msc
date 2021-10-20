@@ -1,0 +1,7 @@
+discord.py
+ffmpeg
+python-decouple
+youtube_dl
+requests
+PyNaCl
+git+https://github.com/Rapptz/discord.py
